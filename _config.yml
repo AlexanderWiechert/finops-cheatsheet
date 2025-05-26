@@ -1,0 +1,25 @@
+title: "FinOps Cheatsheet"
+description: "Engineering-first FinOps knowledge base for cloud cost optimization."
+remote_theme: "mmistakes/minimal-mistakes@4.26.1" # (immer neueste Version prüfen!)
+logo: /en/images/logo.png
+
+# Optional: Social und weitere Einstellungen
+repository: AlexanderWiechert/finops-cheatsheet
+
+# Minimal Mistakes spezifisch:
+author:
+  name   : "Alexander Wiechert"
+  avatar : /en/images/finops-banner.svg
+
+# Optional: Favicon
+favicon: /en/images/finops-banner.svg
+
+# Optional: Farbschema
+minimal_mistakes_skin: "air" # oder "default", "dark", "neon" – siehe Doku!
+
+# Für GitHub Pages:
+plugins:
+  - jekyll-include-cache
+
+# Build Settings
+markdown: kramdown

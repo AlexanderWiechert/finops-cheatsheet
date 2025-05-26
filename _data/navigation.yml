@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Topics"
+    url: /en/topics/
+    children:
+      - title: "Cost Visibility & Allocation"
+        url: /en/topics/cost-visibility/
+      - title: "Kubernetes Optimization"
+        url: /en/topics/optimization-k8s/
+      # ...weitere Topics analog
+  - title: "Snippets"
+    url: /en/snippets/
+  - title: "Resources"
+    url: /en/topics/resources/
