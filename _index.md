@@ -3,9 +3,7 @@ title: FinOps Cheatsheet
 description: Engineering-first knowledge base for cloud cost optimization and automation on AWS, GCP, Azure, and Kubernetes.
 ---
 
-![FinOps Cheatsheet Banner](./images/logo.png)
-
-
+![FinOps Cheatsheet Banner](./en/images/logo.png)
 
 # FinOps Cheatsheet
 
@@ -54,5 +52,4 @@ Let’s make cloud costs transparent and actionable!”_
 
 - Created by practitioners, for practitioners.
 - [How to contribute](https://github.com/AlexanderWiechert/finops-cheatsheet/blob/main/README.md) | License: MIT
-  
 
