@@ -1,4 +1,5 @@
 ---
+layout: home
 title: FinOps Cheatsheet
 description: Engineering-first knowledge base for cloud cost optimization and automation on AWS, GCP, Azure, and Kubernetes.
 ---
