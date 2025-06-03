@@ -2,35 +2,35 @@ main:
   - title: "Home"
     url: /
   - title: "Topics"
-    url: /en/topics/
+    url: /topics/
     children:
       - title: "Cost Visibility & Allocation"
-        url: /en/topics/cost-visibility/
+        url: /topics/cost-visibility/
       - title: "Cost Allocation"
-        url: /en/topics/cost-allocation/
+        url: /topics/cost-allocation/
       - title: "Compute Optimization"
-        url: /en/topics/optimization-compute/
+        url: /topics/optimization-compute/
       - title: "Storage Optimization"
-        url: /en/topics/optimization-storage/
+        url: /topics/optimization-storage/
       - title: "Network Optimization"
-        url: /en/topics/optimization-network/
+        url: /topics/optimization-network/
       - title: "Kubernetes Optimization"
-        url: /en/topics/optimization-k8s/
+        url: /topics/optimization-k8s/
       - title: "Budgeting & Forecasting"
-        url: /en/topics/budgeting-forecasting/
+        url: /topics/budgeting-forecasting/
       - title: "Automation & Governance"
-        url: /en/topics/automation-governance/
+        url: /topics/automation-governance/
       - title: "Monitoring & Alerting"
-        url: /en/topics/monitoring-alerting/
+        url: /topics/monitoring-alerting/
       - title: "Tooling Landscape"
-        url: /en/topics/tooling-landscape/
+        url: /topics/tooling-landscape/
       - title: "Common Pitfalls"
-        url: /en/topics/common-pitfalls/
+        url: /topics/common-pitfalls/
       - title: "FAQ"
-        url: /en/topics/faq/
+        url: /topics/faq/
       - title: "Resources"
-        url: /en/topics/resources/
+        url: /topics/resources/
   - title: "Snippets"
-    url: /en/snippets/
+    url: /snippets/
   - title: "Resources"
-    url: /en/topics/resources/
+    url: /topics/resources/

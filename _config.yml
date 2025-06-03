@@ -10,10 +10,10 @@ repository: AlexanderWiechert/finops-cheatsheet
 # Minimal Mistakes spezifisch:
 author:
   name   : "Alexander Wiechert"
-  avatar : /en/images/finops-banner.svg
+  avatar : /images/finops-banner.svg
 
 # Optional: Favicon
-favicon: /en/images/finops-banner.svg
+favicon: /images/finops-banner.svg
 
 # Optional: Farbschema
 minimal_mistakes_skin: "air" # oder "default", "dark", "neon" – siehe Doku!

@@ -2,7 +2,7 @@
 
 Pragmatic, engineering-first cheatsheet for actionable cloud cost optimization in AWS, GCP, Azure, and Kubernetes.
 
-- Start here: [English index](/en/index.md)
+- Start here: [English index](/index.md)
 - Browse [topics](/topics/)
 - Jump to [snippets](/snippets/)
 
