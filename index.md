@@ -4,9 +4,9 @@ title: FinOps Cheatsheet
 subtitle: Engineering-first knowledge base for cloud cost optimization and automation on AWS, GCP, Azure, and Kubernetes.
 ---
 
-![FinOps Cheatsheet Banner](./images/logo.png)
+![FinOps Cheatsheet Banner](images/logo.png)
 
-# FinOps Cheatsheet
+
 
 **Your fast-access, actionable resource for cloud cost optimization in AWS, GCP, Azure, and Kubernetes.**
 Pragmatic, automation-friendly, and platform-agnostic—built for engineers, SREs, DevOps, and cross-functional FinOps teams.
