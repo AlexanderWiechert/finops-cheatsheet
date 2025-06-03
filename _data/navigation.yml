@@ -6,9 +6,30 @@ main:
     children:
       - title: "Cost Visibility & Allocation"
         url: /en/topics/cost-visibility/
+      - title: "Cost Allocation"
+        url: /en/topics/cost-allocation/
+      - title: "Compute Optimization"
+        url: /en/topics/optimization-compute/
+      - title: "Storage Optimization"
+        url: /en/topics/optimization-storage/
+      - title: "Network Optimization"
+        url: /en/topics/optimization-network/
       - title: "Kubernetes Optimization"
         url: /en/topics/optimization-k8s/
-      # ...weitere Topics analog
+      - title: "Budgeting & Forecasting"
+        url: /en/topics/budgeting-forecasting/
+      - title: "Automation & Governance"
+        url: /en/topics/automation-governance/
+      - title: "Monitoring & Alerting"
+        url: /en/topics/monitoring-alerting/
+      - title: "Tooling Landscape"
+        url: /en/topics/tooling-landscape/
+      - title: "Common Pitfalls"
+        url: /en/topics/common-pitfalls/
+      - title: "FAQ"
+        url: /en/topics/faq/
+      - title: "Resources"
+        url: /en/topics/resources/
   - title: "Snippets"
     url: /en/snippets/
   - title: "Resources"

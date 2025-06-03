@@ -1,35 +1,16 @@
 ---
 layout: home
 title: FinOps Cheatsheet
-description: Engineering-first knowledge base for cloud cost optimization and automation on AWS, GCP, Azure, and Kubernetes.
+subtitle: Engineering-first knowledge base for cloud cost optimization and automation on AWS, GCP, Azure, and Kubernetes.
 ---
 
-![FinOps Cheatsheet Banner](images/logo.png)
+![FinOps Cheatsheet Banner](./images/logo.png)
 
 # FinOps Cheatsheet
 
 **Your fast-access, actionable resource for cloud cost optimization in AWS, GCP, Azure, and Kubernetes.**
 Pragmatic, automation-friendly, and platform-agnostic—built for engineers, SREs, DevOps, and cross-functional FinOps teams.
 
----
-
-## Quick Navigation
-
-- [Cost Visibility & Allocation](./topics/cost-visibility.md)
-- [Cost Allocation](./topics/cost-allocation.md)
-- [Compute Optimization](./topics/optimization-compute.md)
-- [Storage Optimization](./topics/optimization-storage.md)
-- [Network Optimization](./topics/optimization-network.md)
-- [Kubernetes Optimization](./topics/optimization-k8s.md)
-- [Budgeting & Forecasting](./topics/budgeting-forecasting.md)
-- [Automation & Governance](./topics/automation-governance.md)
-- [Monitoring & Alerting](./topics/monitoring-alerting.md)
-- [Tooling Landscape](./topics/tooling-landscape.md)
-- [Common Pitfalls](./topics/common-pitfalls.md)
-- [FAQ](./topics/faq.md)
-- [Resources](./topics/resources.md)
-
----
 
 ## Why This Cheatsheet?
 
