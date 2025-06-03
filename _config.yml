@@ -2,7 +2,7 @@ title: "FinOps Cheatsheet"
 description: "Engineering-first FinOps knowledge base for cloud cost optimization."
 remote_theme: "mmistakes/minimal-mistakes@4.26.1" # (immer neueste Version prüfen!)
 #theme: "minimal-mistakes-jekyll"
-logo: /en/images/logo.png
+logo: /images/logo.png
 
 # Optional: Social und weitere Einstellungen
 repository: AlexanderWiechert/finops-cheatsheet
